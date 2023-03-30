@@ -1,0 +1,42 @@
+body{
+	font-family: 'Poppins', sans-serif;
+	text-align:center;
+	background: #675AFE;
+ }
+
+table{
+	border: 1px solid  #ddd;
+	 width: 25%;
+	 height:50%;
+	 text-align: center;
+	 background-color:white;
+	border-radius: 20px;
+
+}
+
+h1{
+	color:white;
+}
+
+td{
+	font-size: 20px;
+}
+
+input{
+	height: 50px;
+}
+
+select{
+	height: 30px;
+	width: 100px;
+	
+}
+
+button{
+	 height: 40px;
+	 font-size: 17px;
+	 color:white;
+	 background: #675AFE;
+	 width: 100px;
+	 border-radius: 10px;
+}
